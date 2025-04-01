@@ -178,7 +178,6 @@ exclude:
   - _projects
   - _repositories
   - _people
-  - _submenus
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
